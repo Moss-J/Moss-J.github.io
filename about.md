@@ -10,5 +10,4 @@ Ritsumeikan University
 
 
 ### Contact me
-
-                          ↓↓↓
+↓↓↓
