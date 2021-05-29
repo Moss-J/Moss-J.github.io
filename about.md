@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Intelligent Computer Entertain ment Laboratory,
-Graduate School of Information Science and Engineerin1, 
-Ritsumeikan University, Shiga, Japan
+Intelligent Computer Entertainment Laboratory,
+Graduate School of Information Science and Engineering, 
+Ritsumeikan University
 
 
 ### Contact me
 
- ↓↓↓
+                          ↓↓↓
